@@ -16,7 +16,7 @@ print(x**y)
 
 # floor division
 #create a variable  and assign a value 12.68
-a = 12.6
+a = 12.68
 
 #create a variable and assign b value 3
 b = 3
