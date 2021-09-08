@@ -3,4 +3,4 @@ while True:
 	if (text == "python"):
 		break
 	print(text)
-print("Python is Addictive!")
+print("Python is Addictive")
