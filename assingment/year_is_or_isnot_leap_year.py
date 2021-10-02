@@ -3,7 +3,7 @@ while True:
     input_value = input("Enter year or type 'Exit' to quit:")
     if input_value.capitalize() == "Exit":
           break
-    if input_value.capitalize() != "Exit" and input_value.isnumeric() == False:
+    else input_value.capitalize() != "Exit" and input_value.isnumeric() == False:
         print("Invalid entry") 
     else:
       year = int(input("Enter year to be checked:"))
